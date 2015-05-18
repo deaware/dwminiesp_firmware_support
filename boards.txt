@@ -1,0 +1,93 @@
+menu.UploadSpeed=Upload Speed
+menu.CpuFrequency=CPU Frequency
+##############################################################
+dwminiesp.name=DW.miniESP
+
+dwminiesp.upload.tool=esptool
+dwminiesp.upload.speed=115200
+dwminiesp.upload.resetmethod=ck
+dwminiesp.upload.maximum_size=524288
+dwminiesp.upload.wait_for_upload_port=true
+dwminiesp.serial.disableDTR=true
+dwminiesp.serial.disableRTS=true
+
+dwminiesp.build.mcu=esp8266
+dwminiesp.build.f_cpu=80000000L
+dwminiesp.build.board=ESP8266_ESP01
+dwminiesp.build.core=esp8266
+dwminiesp.build.variant=generic
+
+dwminiesp.menu.CpuFrequency.80=80 MHz
+dwminiesp.menu.CpuFrequency.80.build.f_cpu=80000000L
+dwminiesp.menu.CpuFrequency.160=160 MHz
+dwminiesp.menu.CpuFrequency.160.build.f_cpu=160000000L
+
+dwminiesp.menu.UploadSpeed.115200=115200
+dwminiesp.menu.UploadSpeed.115200.upload.speed=115200
+dwminiesp.menu.UploadSpeed.9600=9600
+dwminiesp.menu.UploadSpeed.9600.upload.speed=9600
+dwminiesp.menu.UploadSpeed.57600=57600
+dwminiesp.menu.UploadSpeed.57600.upload.speed=57600
+dwminiesp.menu.UploadSpeed.256000=256000
+dwminiesp.menu.UploadSpeed.256000.upload.speed=256000
+dwminiesp.menu.UploadSpeed.921600=921600
+dwminiesp.menu.UploadSpeed.921600.upload.speed=921600
+
+##############################################################
+dwcloud.name=DW.CLOUD ESP8266
+
+dwcloud.upload.tool=esptool
+dwcloud.upload.speed=115200
+dwcloud.upload.resetmethod=ck
+dwcloud.upload.maximum_size=524288
+dwcloud.upload.wait_for_upload_port=true
+dwcloud.serial.disableDTR=false
+dwcloud.serial.disableRTS=true
+
+dwcloud.build.mcu=esp8266
+dwcloud.build.f_cpu=80000000L
+dwcloud.build.board=ESP8266_ESP01
+dwcloud.build.core=esp8266
+dwcloud.build.variant=generic
+
+dwcloud.menu.CpuFrequency.80=80 MHz
+dwcloud.menu.CpuFrequency.80.build.f_cpu=80000000L
+dwcloud.menu.CpuFrequency.160=160 MHz
+dwcloud.menu.CpuFrequency.160.build.f_cpu=160000000L
+
+dwcloud.menu.UploadSpeed.115200=115200
+dwcloud.menu.UploadSpeed.115200.upload.speed=115200
+##############################################################
+
+generic.name=Generic ESP8266 Module
+
+generic.upload.tool=esptool
+generic.upload.speed=115200
+generic.upload.resetmethod=ck
+generic.upload.maximum_size=524288
+generic.upload.wait_for_upload_port=true
+generic.serial.disableDTR=true
+generic.serial.disableRTS=true
+
+generic.build.mcu=esp8266
+generic.build.f_cpu=80000000L
+generic.build.board=ESP8266_ESP01
+generic.build.core=esp8266
+generic.build.variant=generic
+
+generic.menu.CpuFrequency.80=80 MHz
+generic.menu.CpuFrequency.80.build.f_cpu=80000000L
+generic.menu.CpuFrequency.160=160 MHz
+generic.menu.CpuFrequency.160.build.f_cpu=160000000L
+
+generic.menu.UploadSpeed.115200=115200
+generic.menu.UploadSpeed.115200.upload.speed=115200
+generic.menu.UploadSpeed.9600=9600
+generic.menu.UploadSpeed.9600.upload.speed=9600
+generic.menu.UploadSpeed.57600=57600
+generic.menu.UploadSpeed.57600.upload.speed=57600
+generic.menu.UploadSpeed.256000=256000
+generic.menu.UploadSpeed.256000.upload.speed=256000
+generic.menu.UploadSpeed.921600=921600
+generic.menu.UploadSpeed.921600.upload.speed=921600
+
