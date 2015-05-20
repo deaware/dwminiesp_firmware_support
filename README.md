@@ -36,13 +36,34 @@ This is official page of software support from Deaware.
 ````
 http://github.com/deaware/dwcloud_firmware_support/raw/master/package_deaware_index.json
 ````
+
 ![](http://128.199.203.210/dwminiesp_support/images/insert_board_man_url.png)
 
 * Open **"Boards Manager"** by goto **Tools > Board > Boards Manager...**
+
 ![](http://128.199.203.210/dwminiesp_support/images/select_boards_manager.png)
 
 * Select **ESP8266 by Deaware** and click **Install**.
+
 ![](http://128.199.203.210/dwminiesp_support/images/install_esp8266.png)
 
 * Check **ESP8266** is available by goto **Tools > Board** and you will see **DW.miniESP**.
+
 ![](http://128.199.203.210/dwminiesp_support/images/dwminiesp_found.png)
+
+#### 3) Uploading program to DW.miniESP
+* Preparing your code.
+
+![](http://128.199.203.210/dwminiesp_support/images/prepare_code.png)
+
+* Confirm that your setting is correct.
+
+![](http://128.199.203.210/dwminiesp_support/images/set_board.png)
+
+* Reset your DW.miniESP into **PROG Mode** by switch the **PROG/RUN switch** to **PROG Mode** like the picture below.
+
+![](http://128.199.203.210/dwminiesp_support/images/switch_prog.png)
+
+* Press upload button to upload.
+
+![](http://128.199.203.210/dwminiesp_support/images/uploaded.png)
