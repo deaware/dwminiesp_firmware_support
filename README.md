@@ -60,7 +60,7 @@ http://github.com/deaware/dwcloud_firmware_support/raw/master/package_deaware_in
 
 ![](http://128.199.203.210/dwminiesp_support/images/set_board.png)
 
-* Reset your DW.miniESP into **PROG Mode** by switch the **PROG/RUN switch** to **PROG Mode** like the picture below and press **RESET**.
+* Reset your DW.miniESP into **PROG Mode** by switch the **PROG/RUN switch** to **PROG Mode** position like the picture below and press **RESET**.
 
 ![](http://128.199.203.210/dwminiesp_support/images/switch_prog.png)
 
