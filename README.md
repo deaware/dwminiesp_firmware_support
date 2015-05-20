@@ -2,6 +2,8 @@
 This is official page of software support from Deaware.
 
 #### Special thank.
+* Adafruit.
+* ESP8266 forum.
 
 ## Board information
 * VCC is 3.3V
