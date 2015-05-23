@@ -69,7 +69,7 @@ http://github.com/deaware/dwcloud_firmware_support/raw/master/package_deaware_in
 
 ![](http://128.199.203.210/dwminiesp_support/images/uploaded.png)
 
-## API Description by [ESP8266 Arduino](https://github.com/esp8266/Arduino)
+## API Documentation by [ESP8266 Arduino](https://github.com/esp8266/Arduino)
 
 #### Basic Wiring functions ####
 
