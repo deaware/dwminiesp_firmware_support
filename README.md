@@ -4,7 +4,7 @@ This is official page of software support from Deaware.
 #### Special thank.
 * Adafruit.
 * ESP8266 forum.
-* (ESP8266 Arduino)[https://github.com/esp8266/Arduino]
+* [ESP8266 Arduino](https://github.com/esp8266/Arduino)
 
 ## Board information
 * VCC is 3.3V
