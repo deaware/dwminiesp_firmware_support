@@ -69,6 +69,7 @@ http://github.com/deaware/dwcloud_firmware_support/raw/master/package_deaware_in
 
 ![](http://128.199.203.210/dwminiesp_support/images/uploaded.png)
 
+## API Description by [ESP8266 Arduino](https://github.com/esp8266/Arduino)
 
 #### Basic Wiring functions ####
 
@@ -141,9 +142,9 @@ This is mostly similar to WiFi shield library. Differences include:
 - ```WiFi.RSSI()``` doesn't work
 - ```WiFi.printDiag(Serial);``` will print out some diagnostic info
 - ```WiFiUDP``` class supports sending and receiving multicast packets on STA interface.
-When sending a multicast packet, replace ```udp.beginPacket(addr, port)``` with 
+When sending a multicast packet, replace ```udp.beginPacket(addr, port)``` with
 ```udp.beginPacketMulticast(addr, port, WiFi.localIP())```.
-When listening to multicast packets, replace ```udp.begin(port)``` with 
+When listening to multicast packets, replace ```udp.begin(port)``` with
 ```udp.beginMulticast(WiFi.localIP(), multicast_ip_addr, port)```.
 You can use ```udp.destinationIP()``` to tell whether the packet received was
 sent to the multicast or unicast address.
@@ -156,7 +157,7 @@ Four samples are provided for this library.
 
 Library for calling functions repeatedly with a certain period. Two examples included.
 
-It is currently not recommended to do blocking IO operations (network, serial, file) from Ticker 
+It is currently not recommended to do blocking IO operations (network, serial, file) from Ticker
 callback functions. Instead, set a flag inside the ticker callback and check for that flag inside the loop function.
 
 #### EEPROM ####
