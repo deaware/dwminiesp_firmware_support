@@ -47,7 +47,7 @@ This is official page of software support from Deaware.
 
 ![](http://128.199.203.210/dwminiesp_support/images/install_esp8266.png)
 
-* Check **ESP8266** is available by goto **Tools > Board** and you will see **DW.miniESP**.
+* Check **ESP8266** is available by goto **Tools > Board** and you will see **Gerneric ESP8266 Module**.
 
 ![](http://128.199.203.210/dwminiesp_support/images/dwminiesp_found.png)
 
