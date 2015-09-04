@@ -35,7 +35,7 @@ This is official page of software support from Deaware.
 * If you don't have Arduino IDE (version >= 1.6.4) or you have Arduino IDE version < 1.6.4, you can download directly from this [link](http://www.arduino.cc/en/Main/Software)
 * Firstly, **Add Board Manager URLs** by goto **File > Preferences** and fill **Add Board Manager URLs** with the following link.
 
-	http://github.com/deaware/dwcloud_firmware_support/raw/master/package_deaware_index.json
+	http://arduino.esp8266.com/staging/package_esp8266com_index.json
 
 ![](http://128.199.203.210/dwminiesp_support/images/insert_board_man_url3.png)
 
