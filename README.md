@@ -2,7 +2,6 @@
 This is official page of software support from Deaware.
 
 #### Special thanks
-* Adafruit.
 * ESP8266 forum.
 * [ESP8266 Arduino](https://github.com/esp8266/Arduino)
 
