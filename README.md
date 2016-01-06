@@ -30,4 +30,4 @@ This is official page of software support from Deaware.
 
 <img src="http://128.199.176.236/dwminiesp_support/images/wiring_ftdi3.png" height="300px"></img>
 
-#### 2) For software support, our DW.miniESP is compatible following article at [ESP8266 Arduino repository](https://github.com/esp8266/Arduino).
+#### 2) For software support, our DW.miniESP is compatible following article at [ESP8266 Arduino repository](https://github.com/esp8266/Arduino). Please select board NodeMCU 1.0 for uploading code to board.
